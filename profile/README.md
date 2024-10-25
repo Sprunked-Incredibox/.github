@@ -2,6 +2,8 @@
 
 Welcome to the official repository for [Sprunked Incredibox](https://modmeme.com/sprunked/), the homepage for the Sprunki mod of the popular music creation game, Incredibox.
 
+## [PLAY SPRUNKED NOW!](https://modmeme.com/sprunked/)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
