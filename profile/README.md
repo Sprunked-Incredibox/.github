@@ -1,6 +1,6 @@
-# [Sprunked](https://modmeme.com/sprunked/) MOD - Play Incredibox Sprunki Game Online
+# Sprunked MOD - Play Incredibox Sprunki Game Online
 
-Welcome to the official repository for [Sprunked Incredibox](https://modmeme.com/sprunked/), the homepage for the Sprunki mod of the popular music creation game, Incredibox.
+Welcome to the official repository for Sprunked Incredibox, the homepage for the Sprunki mod of the popular music creation game, Incredibox.
 
 ## [PLAY SPRUNKED NOW!](https://modmeme.com/sprunked/)
 
@@ -8,7 +8,7 @@ Welcome to the official repository for [Sprunked Incredibox](https://modmeme.com
 
 ## Introduction
 
-[Sprunked](https://modmeme.com/sprunked/) is an exciting new take on the well-known Incredibox music creation platform. This website serves as the primary information hub for Sprunked, highlighting its unique features, gameplay mechanics, and community engagement.
+Sprunked is an exciting new take on the well-known Incredibox music creation platform. This website serves as the primary information hub for Sprunked, highlighting its unique features, gameplay mechanics, and community engagement.
 
 ## Key Features
 
