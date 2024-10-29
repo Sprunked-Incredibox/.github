@@ -4,8 +4,6 @@ Welcome to the official repository for [Sprunked Incredibox](https://modmeme.com
 
 ## [PLAY SPRUNKED NOW!](https://modmeme.com/sprunked/)
 
-## 👉[Download Superhybrid.online PVZ](https://files.apktodo.store/pvz2.1.3%20RH.apk)⚡
-
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
@@ -113,4 +111,4 @@ We welcome contributions to enhance Sprunked.org! If you have suggestions or imp
 
 For any questions or support, please open an issue in this repository or reach out through our website.
 
-Enjoy creating sprunki beats with Sprunked!
+Enjoy creating sprunki beats with Sprunked [ModMeme](https://github.com/ModMeme-Original)!
