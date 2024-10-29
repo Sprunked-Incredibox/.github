@@ -84,12 +84,6 @@ $ sprunked
 
 [Sprunked](https://www.npmjs.com/package/)
 
-## Links
-
-- **Official Website**: [Sprunked.Game](https://modmeme.com/sprunked/)
-- **Play Now**: Sprunked Incredibox
-- **Download**: Sprunked Game Download
-
 ## Contributing
 
 We welcome contributions to enhance Sprunked.org! If you have suggestions or improvements:
