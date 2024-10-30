@@ -6,6 +6,8 @@ Welcome to the official repository for Sprunked Incredibox, the homepage for the
 
 ## [CLICK TO PLAY SPUNKI BABIES VERSION!](https://github.com/Sprunki-Baby-Sprunki-Babies)
 
+## [PLAY SPRUNKI PHASE 3!](https://github.com/Sprunki-Phase-3-Incredibox-Game)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
