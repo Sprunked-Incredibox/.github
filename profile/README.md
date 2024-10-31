@@ -8,6 +8,8 @@ Welcome to the official repository for Sprunked Incredibox, the homepage for the
 
 ## [Play Sprunki Dandy's World](https://github.com/Sprunki-Dandy-s-World-Game)
 
+## [Play Sprunki Phase 10!](https://github.com/Sprunki-Phase-10)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
