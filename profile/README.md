@@ -6,6 +6,8 @@ Welcome to the official repository for Sprunked Incredibox, the homepage for the
 
 ## [Play Abgerny Sprunki!](https://github.com/Abgerny-Incredibox)
 
+## [Play Sprunki Dandy's World](https://github.com/Sprunki-Dandy-s-World-Game)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
