@@ -109,4 +109,5 @@ Enjoy creating sprunki beats with [Sprunki](https://github.com/Incredibox-Mustar
 ## More Infor:
 - [Eppi Cinema](https://github.com/Eppi-Cinema)
 - [UniTV](https://github.com/Uni-TV)
+- [Spotify Premium APK](https://github.com/Spotify-Premium-Mobile)
 
