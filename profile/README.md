@@ -8,6 +8,8 @@ Welcome to the official repository for Sprunked Incredibox, the homepage for the
 
 ## [Play Sprunki Halloween Version!](https://github.com/Sprunki-Halloween)
 
+## [Play Sprunki Mustard!](https://github.com/Sprunki-Mustard)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
