@@ -4,6 +4,8 @@ Welcome to the official repository for Sprunked Incredibox, the homepage for the
 
 ## [CLICK TO PLAY SPRUNKED!](https://tinyurl.com/52cdf5rd)
 
+## [Play Sprunki Phase 4!](https://github.com/Sprunki-Phase-4-Game)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
