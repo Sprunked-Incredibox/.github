@@ -109,12 +109,10 @@ We welcome contributions to enhance Sprunked.org! If you have suggestions or imp
 
 5. Open a Pull Request.
 
-For any questions or support, please open an issue in this repository or reach out through our [website](https://github.com/Youtube-Premium-APK).
+For any questions or support, please open an issue in this repository or reach out through our website.
 
 Enjoy creating sprunki beats with Sprunki!
 ## More Infor:
-- [Eppi Cinema](https://github.com/Eppi-Cinema)
-- [UniTV](https://github.com/Uni-TV)
 - [Spotify Premium APK](https://github.com/Spotify-Premium-Mobile)
 - [Spotify Premium APK ES](https://github.com/Spotify-Premium-2024)
-- [More Game](https://github.com/Rejekibet-Slot-APK)
+- [JerkFlix](https://github.com/Jerkflix)
