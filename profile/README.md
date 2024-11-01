@@ -105,9 +105,10 @@ We welcome contributions to enhance Sprunked.org! If you have suggestions or imp
 
 For any questions or support, please open an issue in this repository or reach out through our [website](https://github.com/Youtube-Premium-APK).
 
-Enjoy creating sprunki beats with [Sprunki](https://github.com/Incredibox-Mustard-Colorbox-Mustard) [ModMeme](https://github.com/ModMeme-Original)!
+Enjoy creating sprunki beats with Sprunki!
 ## More Infor:
 - [Eppi Cinema](https://github.com/Eppi-Cinema)
 - [UniTV](https://github.com/Uni-TV)
 - [Spotify Premium APK](https://github.com/Spotify-Premium-Mobile)
+- [Spotify Premium APK ES](https://github.com/Spotify-Premium-2024)
 
