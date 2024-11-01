@@ -6,6 +6,8 @@ Welcome to the official repository for Sprunked Incredibox, the homepage for the
 
 ## [Play Sprunki Phase 4!](https://github.com/Sprunki-Phase-4-Game)
 
+## [Play Sprunki Halloween Version!](https://github.com/Sprunki-Halloween)
+
 ![unnamed](https://github.com/user-attachments/assets/41625f6b-fdf2-4177-94fd-c08a1bb3efa4)
 
 ## Introduction
